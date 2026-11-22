@@ -1,0 +1,14 @@
+## Mantenimiento del bot
+
+El bot de la comunidad estara fuera de linea un ratito.
+
+### Que pasara
+- Los comandos no responderan durante aproximadamente **15 minutos**.
+- Los mensajes enviados mientras tanto podrian no guardarse.
+
+### Recomendacion
+Vuelve a intentarlo en unos minutos, todo vuelve a la normalidad solo.
+
+> Gracias por la paciencia.
+
+||@everyone||

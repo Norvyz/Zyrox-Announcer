@@ -1,0 +1,15 @@
+## Nueva temporada: Trivia de los Viernes
+
+Arranca una nueva temporada y traemos cambios para que la pasemos mejor.
+
+### Lo nuevo
+- **Nuevas categorias**: cine, videojuegos, historia y musica.
+- **Sistema de puntos**: cada respuesta correcta suma puntos al ranking semanal.
+- **Premio sorpresa**: el ganador del mes elige el tema de la proxima trivia.
+
+### Como participar
+1. Estar atento al canal el viernes a las 20:00.
+2. Responder con el numero de la opcion correcta.
+3. No mirar el chat de quienes ya respondieron... o eso intentamos.
+
+> Trae tu cafe y tu mejor memoria.

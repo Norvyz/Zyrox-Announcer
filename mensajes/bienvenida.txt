@@ -1,0 +1,16 @@
+# Bienvenido a la comunidad!
+
+Nos alegra que estes aca. Un par de cosas para arrancar:
+
+### Primeros pasos
+1. Leete las **reglas** del servidor.
+2. Presentate en <#123456789012345678>.
+3. Elegi tu idioma:
+   - <@&123456789012345679> Espanol
+   - <@&123456789012345680> English
+
+### Donde encontrar cosas
+- <#123456789012345679> para preguntas y ayuda
+- <#123456789012345680> para memes y random
+
+Si tenes dudas, pregunta nomas. Aca estamos para ayudarte.
