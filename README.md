@@ -1,5 +1,7 @@
 # Zyrox Announcer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 Mensajero comunitario para publicar anuncios formateados en Discord mediante un **webhook oficial**.
 Usa la función oficial de webhooks: **no usa tu cuenta, no necesita token y no te puede banear**.
 
@@ -24,6 +26,7 @@ Puedes seleccionar **uno o varios** mensajes en una sola ejecución.
 Zyrox-Announcer/
 ├── zyrox_announcer.py      <- el script
 ├── README.md               <- este archivo
+├── LICENSE                 <- licencia MIT
 ├── requirements.txt
 ├── evidencias/
 │   └── ejemplo como se ve en discord.png   <- captura de referencia
@@ -265,6 +268,13 @@ Solo internet y que el webhook siga existiendo.
 
 ---
 
+## Licencia
+
+Distribuido bajo la licencia **MIT**. Puedes usar, modificar y compartir el proyecto
+incluso en usos comerciales, manteniendo el aviso de copyright. Ver [LICENSE](LICENSE).
+
+---
+
 ## Subir a GitHub
 
 Cuando tengas el repo listo:
@@ -280,4 +290,4 @@ git push -u origin main
 
 ---
 
-**Creado por Norvy** · Ejemplos y documentación con ayuda de **Big Pickle** (IA de OpenCode).
+**Creado por Norvy** · Ejemplos y documentación con ayuda de **Big Pickle** (IA de OpenCode) · Licencia MIT.
